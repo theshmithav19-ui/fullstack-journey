@@ -7,3 +7,25 @@ Today I learned:
 - Basics of programming
 
 Goal: Become a Python Full Stack Developer.
+
+Day 2 – Frontend vs Backend
+
+Frontend:
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+Backend:
+
+- Python
+- Django / FastAPI
+- Databases
+
+Full Stack:
+
+- Frontend + Backend + Database
+
+My Goal:
+Become a Python Full Stack Developer.
